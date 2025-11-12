@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Caio Mora Alexandre
+# 👋 Olá! Eu sou o Caio
 
 💻 **Frontend Developer | Angular | TypeScript | NGRX | RXJS**
 
