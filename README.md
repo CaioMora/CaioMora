@@ -1,18 +1,18 @@
 # 👋 Olá! Eu sou o Caio
 
-💻 **Frontend Developer | Angular | TypeScript | NGRX | RXJS**
-
-Sou um desenvolvedor front-end com experiência sólida em **Angular**, **TypeScript**, **JavaScript** e **NGRX**, apaixonado por criar interfaces web dinâmicas, responsivas e acessíveis. Tenho foco em **engenharia front-end**, priorizando código limpo, escalável e de alta performance — sempre com uma experiência de usuário fluida e de qualidade.
+💻  Desenvolvedor Front-end com foco em Angular, TypeScript e arquitetura reativa. Café na mão, terminal aberto e sempre buscando a melhor forma de escrever um código limpo, performático e sustentável.
+Sou movido por criar experiências digitais intuitivas e fluidas. Adoro transformar interfaces em algo bonito, rápido e acessível, com atenção especial à performance, componentização e legibilidade do código.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🧠 Formado em **Sistemas de Informação** pela Universidade do Grande ABC  
-- 💡 Experiência com **componentização**, **testes unitários (Angular Testing, Jest)** e **CI/CD (GitHub Actions)**  
-- ☁️ Integração de aplicações com **AWS S3** e otimização de performance web  
-- 🎨 Colaboração próxima com times de **UX/UI** para criação de experiências envolventes  
-- 🌍 Inglês **avançado**
+- 🎓 Formado em Sistemas de Informação pela Universidade do Grande ABC
+- 🧩 Experiência sólida com componentização, Angular Material, RxJS e programação reativa
+- 🧪 Prática em testes unitários com Jasmine, Karma, Jest e Angular Testing Library
+- 🔄 Automação e entrega contínua com GitHub Actions (CI/CD)
+- ☁️ Integração com AWS S3 e otimização de performance para aplicações SPA
+- 🎨 Trabalho em conjunto com UX/UI Designers para entregar interfaces consistentes, modernas e acessíveis  
 
 ---
 
@@ -33,14 +33,6 @@ Sou um desenvolvedor front-end com experiência sólida em **Angular**, **TypeSc
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
----
-
-## ⚡ Curiosidades
-
-- 🚀 Apaixonado por **UI/UX**, **componentização** e **animações front-end**  
-- ☕ Entusiasta de café (inclusive tem projetos inspirados nisso!)  
-- 📈 Sempre em busca de aprimorar performance, acessibilidade e experiência do usuário  
 
 ---
 
