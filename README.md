@@ -2,7 +2,7 @@
 
 💻 **Frontend Developer | Angular | TypeScript | NGRX | RXJS**
 
-Sou um desenvolvedor front-end com experiência sólida em **Angular**, **TypeScript**, **JavaScript** e **VueJS**, apaixonado por criar interfaces web dinâmicas, responsivas e acessíveis. Tenho foco em **engenharia front-end**, priorizando código limpo, escalável e de alta performance — sempre com uma experiência de usuário fluida e de qualidade.
+Sou um desenvolvedor front-end com experiência sólida em **Angular**, **TypeScript**, **JavaScript** e **NGRX**, apaixonado por criar interfaces web dinâmicas, responsivas e acessíveis. Tenho foco em **engenharia front-end**, priorizando código limpo, escalável e de alta performance — sempre com uma experiência de usuário fluida e de qualidade.
 
 ---
 
